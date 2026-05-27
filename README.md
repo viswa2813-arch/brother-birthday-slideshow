@@ -1,2 +1,2 @@
-# brother-birthday-slideshow
+#anniversery-slideshow
 irthday slideshow for my brother
